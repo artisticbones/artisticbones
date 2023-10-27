@@ -2,7 +2,9 @@
 
 #### About me
 
-![crane](graphs/crane.jpeg)
+<p align="center">
+  <img align="center" src="graphs/crane.jpeg" width="200.4" height="356.3" >
+</p>
 
 I am a young Chinese who is currently working in the field of gopher and crypto  . I know English but I don’t use it often so I’m not proficient enough. I plan to pass IELTS📝 by the end of next year🔥. At the same time, I am an outdoor activity enthusiast 🧗, like photography 📷, talk about technology and humanities with people, and share the scenery of the world. Finally, **World Peace**! 🗺 ☮
 
@@ -12,4 +14,5 @@ I am a young Chinese who is currently working in the field of gopher and crypto 
 - 🎓 Bachelor of Science in Network Engineering.
 - 🌱 I’m currently learning Math, Cryptography and English.
 - 🖥 With 4 years' network engineering education and 2 years' development working experience.
+
 ---
